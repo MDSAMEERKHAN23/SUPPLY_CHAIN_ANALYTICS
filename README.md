@@ -31,7 +31,5 @@ KPI Development
 Interactive Charts, Slicers & Visualizations
 Business Data Analysis
 💡 Key Insights
-
-PROJECT SCREENSHOT:
-
 The dashboard makes it easier to identify differences in order volumes across cities, product-level revenue performance, transportation preferences, customer distribution, inventory availability, and lead-time performance.
+PROJECT SREENSHOT:https://github.com/MDSAMEERKHAN23/SUPPLY_CHAIN_ANALYTICS/blob/main/Screenshot%202026-09-13%20171908.png
